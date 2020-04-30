@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.127.198.132:9980/mithuntechnologies/repository/flipkart-releases/</url>
+	      <url>http://3.21.158.123:9980/mss/repository/paytm-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.127.198.132:9980/mithuntechnologies/repository/flipkart-snapshots/</url>
+	      <name>Mithun Technologies Snapshot Nexus Repository</name>
+	      <url>http://3.21.158.123:9980/mss/repository/paytm-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
